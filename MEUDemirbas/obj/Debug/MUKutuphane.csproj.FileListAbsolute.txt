@@ -1,0 +1,12 @@
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.csprojResolveAssemblyReference.cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.MainForm.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.csproj.GenerateResource.Cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\MUKutuphane.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\MUKutuphane.pdb
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\MySql.Data.dll
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.pdb
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.Emanet_İşlemleri.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.Demirbaş_İşlemleri.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\System.Data.SQLite.dll
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\System.Data.SQLite.xml

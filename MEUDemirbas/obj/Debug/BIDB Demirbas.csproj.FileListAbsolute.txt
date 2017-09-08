@@ -1,0 +1,24 @@
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\BIDB Demirbas.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\BIDB Demirbas.pdb
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\System.Data.SQLite.dll
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\bin\Debug\System.Data.SQLite.xml
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\BIDB Demirbas.csprojResolveAssemblyReference.cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.MainForm.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\BIDB Demirbas.csproj.GenerateResource.Cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\BIDB Demirbas.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\BIDB Demirbas.pdb
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.Girdi.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.Cikti.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MUKutuphane\MUKutuphane\obj\Debug\MUKutuphane.demirbas.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\bin\Debug\BIDB Demirbas.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\bin\Debug\BIDB Demirbas.pdb
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\bin\Debug\System.Data.SQLite.dll
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\bin\Debug\System.Data.SQLite.xml
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\BIDB Demirbas.csprojResolveAssemblyReference.cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\MUKutuphane.demirbas.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\MUKutuphane.Girdi.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\MUKutuphane.Cikti.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\MUKutuphane.MainForm.resources
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\BIDB Demirbas.csproj.GenerateResource.Cache
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\BIDB Demirbas.exe
+D:\Users\Meu\Desktop\SharpDevelopPortable_4.3.3_Development_Test_1.paf\Data\SharpDevelop Projects\MEUDemirbas\MEUDemirbas\obj\Debug\BIDB Demirbas.pdb
